@@ -1,0 +1,14 @@
+{
+    "accountId": "221765",
+    "emailSubject": "DocuSign Templates Webinar - Example 1",
+    "emailBlurb": "Example #1 - Basic Requirements",
+    "templateId": "55A80182-2E9F-435D-9B16-FD1E1C0F9D74",
+    "templateRoles": [
+        {
+            "email": "ergin.dervisoglu@docusign.com",
+            "name": "Ergin Dervisoglu",
+            "roleName": "RoleOne"
+        }
+    ],
+    "status": "sent"
+}

@@ -1,0 +1,26 @@
+{
+    "accountId": "221765",
+    "emailSubject": "DocuSign Templates Webinar - Example 2",
+    "emailBlurb": "Example #2 - Dynamically Populate Form Fields",
+    "templateId": "44D9E888-3D86-4186-8EE9-7071BC87A0DA",
+    "templateRoles": [
+        {
+            "email": "ergin.dervisoglu@docusign.com",
+            "name": "Ergin Dervisoglu",
+            "roleName": "RoleOne",
+            "tabs": {
+                "textTabs": [
+                    {
+                        "tabLabel": "ApplicantName",
+                        "value": "John Doe"
+                    },
+                    {
+                        "tabLabel": "ApplicantSSN",
+                        "value": "12-345-6789"
+                    }
+                ]
+            }
+        }
+    ],
+    "status": "sent"
+}
