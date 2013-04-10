@@ -45,7 +45,7 @@
 	echo "\naccountId = " . $accountId . "\nbaseUrl = " . $baseUrl . "\n";
 	
 	/////////////////////////////////////////////////////////////////////////////////////////////////
-	// STEP 2 - Create and envelope using one template role (called "RoleOne") and one recipient
+	// STEP 2 - Create an envelope using template and pre-populate two form fields (name & SSN)
 	/////////////////////////////////////////////////////////////////////////////////////////////////
 	$data = array("accountId" => $accountId, 
 		"emailSubject" => "DocuSign Templates Webinar - Example 2",
