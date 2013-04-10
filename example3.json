@@ -1,0 +1,53 @@
+{
+  "emailSubject": "DocuSign Templates Webinar - Example 3",
+  "emailBlurb": "Example #3 - Composite Templates",
+  "status": "sent",
+  "compositeTemplates": [
+    {
+      "serverTemplates": [
+        {
+          "sequence": "1",
+          "templateId": "55A80182-2E9F-435D-9B16-FD1E1C0F9D74"
+        }
+      ],
+      "inlineTemplates": [
+        {
+          "sequence": "1",
+          "recipients": {
+            "signers": [
+              {
+                "email": "ergin.dervisoglu@docusign.com",
+                "name": "Ergin",
+                "recipientId": "1",
+                "roleName": "RoleOne"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "serverTemplates": [
+        {
+          "sequence": "2",
+          "templateId": "44D9E888-3D86-4186-8EE9-7071BC87A0DA"
+        }
+      ],
+      "inlineTemplates": [
+        {
+          "sequence": "2",
+          "recipients": {
+            "signers": [
+              {
+                "email": "ergin_d@yahoo.com",
+                "name": "Dervisoglu",
+                "recipientId": "1",
+                "roleName": "RoleOne"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}
