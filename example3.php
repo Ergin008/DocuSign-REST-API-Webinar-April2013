@@ -48,7 +48,7 @@
 	// STEP 2 - Create an envelope using composite templates
 	/////////////////////////////////////////////////////////////////////////////////////////////////                                                                   
 	
-	$data_string = file_get_contents("composite.json");  
+	$data_string = file_get_contents("example3.json");  
 	
 	echo "\n\n$data_string\n\n";
 	
@@ -74,6 +74,5 @@
 	$envelopeId = $response["envelopeId"];
 	
 	// --- display results
-	print_r($response);	
-	//echo "Document is sent! Envelope ID = " . $envelopeId . "\n\n"; 
+	echo "Document is sent! Envelope ID = " . $envelopeId . "\n\n"; 
 ?>
