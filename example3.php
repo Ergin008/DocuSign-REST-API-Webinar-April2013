@@ -50,8 +50,6 @@
 	
 	$data_string = file_get_contents("example3.json");  
 	
-	echo "\n\n$data_string\n\n";
-	
 	$curl = curl_init($baseUrl . "/envelopes" );
 	curl_setopt($curl, CURLOPT_RETURNTRANSFER, true);
 	curl_setopt($curl, CURLOPT_POST, true);
