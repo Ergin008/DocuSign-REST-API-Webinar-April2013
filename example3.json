@@ -16,8 +16,8 @@
           "recipients": {
             "signers": [
               {
-                "email": "ergin.dervisoglu@docusign.com",
-                "name": "Ergin",
+                "email": "firstrecipient@gmail.com",
+                "name": "John Doe",
                 "recipientId": "1",
                 "roleName": "RoleOne"
               }
@@ -39,8 +39,8 @@
           "recipients": {
             "signers": [
               {
-                "email": "ergin_d@yahoo.com",
-                "name": "Dervisoglu",
+                "email": "secondrecipient@gmail.com",
+                "name": "Jane Doe",
                 "recipientId": "1",
                 "roleName": "RoleOne"
               }
