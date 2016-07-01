@@ -1,7 +1,7 @@
 <?php
 
     // Input your info here:
-	$name = "Ergin Dervisoglu";
+	$name = "John Smith";
 	$email = 'john@email.com';
 	$integratorKey = '...';
 	$password = '...';
