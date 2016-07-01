@@ -2,7 +2,7 @@
 
     // Input your info here:
 	$name = "Ergin Dervisoglu";
-	$email = 'ergin.dervisoglu@docusign.com';
+	$email = 'john@email.com';
 	$integratorKey = '...';
 	$password = '...';
 
